@@ -1,11 +1,11 @@
 # BarbeariaAlura
 
-Pagina web criada utilizado Html5 e css3
+Pagina web criada utilizado Html5 e Css3
 Utilizado como referencia curso da Alura Html5 + css
 
 # HTML
 
-Utilização correta da estrutura Html, especificações de versionamento de html, descrição de dicionario, 
+Utilização correta da estrutura Html, especificações de versionamento, descrição de dicionario, 
 marcação para usuarios portadores de deficiencia visual, utilização de lista, marcadores e classes. 
 
 # Css
